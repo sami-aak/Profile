@@ -2,11 +2,22 @@
 
 # Sami ABDELKAFI
 
+![alt text](Faroe.jpg)
+
 ## Compétences
+
+- HTML
+- CSS
+- Figma
 
 ## Formation
 
+- Human Booster
+
 ## Expérience
+
+- Ambulancier
+- Assistant commercial
 
 <!--
 **sami-aak/sami-aak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

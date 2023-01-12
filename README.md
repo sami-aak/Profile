@@ -1,23 +1,36 @@
-![alt text](Clouds.jpg)
-
 ### Hi there 👋
+
+
+![alt text](Sea.jpg)
+
 
 # Sami ABDELKAFI
 
-## Compétences
+## Hard-Skills
 
 - HTML
 - CSS
+- JavaScript
+- Git
 - Figma
 
-## Formation
+## Soft-Skills
+
+- Organization
+- Flexibility
+- Team work
+- Curiosity
+- Honesty
+
+## Education
 
 - Human Booster
 
-## Expérience
+## Work Experience
 
-- Ambulancier
-- Assistant commercial
+- Paramedic
+- Commercial Assistant
+- Salesman
 
 <!--
 **sami-aak/sami-aak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

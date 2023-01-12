@@ -1,4 +1,4 @@
-![alt text](Faroe.jpg)
+![alt text](Sea.jpg)
 
 ### Hi there 👋
 

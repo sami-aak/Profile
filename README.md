@@ -1,8 +1,8 @@
+![alt text](Faroe.jpg)
+
 ### Hi there 👋
 
 # Sami ABDELKAFI
-
-![alt text](Faroe.jpg)
 
 ## Compétences
 

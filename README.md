@@ -1,4 +1,4 @@
-![alt text](Sea.jpg)
+![alt text](Mountains.jpg)
 
 ### Hi there 👋
 

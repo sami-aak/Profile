@@ -4,7 +4,7 @@
 ![alt text](Sea.jpg)
 
 
-## Found me
+## Contact
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/sami-aak)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/sami-a-56920524a/)

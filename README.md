@@ -17,13 +17,6 @@
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
 
-## Soft-Skills
-
-- Organization
-- Flexibility
-- Team work
-- Curiosity
-- Honesty
 
 <!--
 **sami-aak/sami-aak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

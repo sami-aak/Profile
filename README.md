@@ -1,10 +1,8 @@
-### Hi there 👋
+# Hi there, and welcome to my profile 👋
 
 
 ![alt text](Sea.jpg)
 
-
-# Sami ABDELKAFI
 
 ## Hard-Skills
 
@@ -21,16 +19,6 @@
 - Team work
 - Curiosity
 - Honesty
-
-## Education
-
-- Human Booster
-
-## Work Experience
-
-- Paramedic
-- Commercial Assistant
-- Salesman
 
 <!--
 **sami-aak/sami-aak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

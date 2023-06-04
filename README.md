@@ -1,7 +1,7 @@
 # Hi there, I'm Sami, web-developper and welcome to my profile 👋
 
 
-![alt text](Cactus.jpg)
+![alt text](Sky.jpg)
 
 
 ## Contact

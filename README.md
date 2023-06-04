@@ -1,7 +1,7 @@
 # Hi there, and welcome to my profile 👋
 
 
-![alt text](Sea.jpg)
+![alt text](Cactus.jpg)
 
 
 ## Contact
